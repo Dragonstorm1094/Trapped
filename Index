@@ -1,7 +1,6 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-</body>
-</html>
+git clone https://github.com/Dragonstorm1094/TrappedRPG.github.io
+cd TrappedRPG.github.io
+echo "Hello World" > index.html
+git add --all
+git commit -m "Initial commit"
+git push -u origin main
