@@ -1,0 +1,20 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Factory","order":4,"parentId":5,"scrollX":1216.5,"scrollY":768},
+{"id":2,"expanded":false,"name":"Info Room","order":5,"parentId":1,"scrollX":1228.5,"scrollY":672},
+{"id":3,"expanded":true,"name":"Castle 1F","order":1,"parentId":0,"scrollX":658.6666666666666,"scrollY":580},
+{"id":4,"expanded":false,"name":"Castle 2F","order":2,"parentId":3,"scrollX":1216.5,"scrollY":768},
+{"id":5,"expanded":true,"name":"F1 Hall Left","order":3,"parentId":3,"scrollX":1228.5,"scrollY":672},
+{"id":6,"expanded":false,"name":"F1 Hall Right","order":17,"parentId":3,"scrollX":746,"scrollY":579.3333333333334},
+{"id":7,"expanded":false,"name":"Factory inside","order":6,"parentId":1,"scrollX":1216.5,"scrollY":1224},
+{"id":8,"expanded":true,"name":"Slum","order":7,"parentId":1,"scrollX":1192,"scrollY":1201.3333333333333},
+{"id":9,"expanded":false,"name":"Mine","order":8,"parentId":8,"scrollX":1228.5,"scrollY":672},
+{"id":10,"expanded":false,"name":"Storage","order":9,"parentId":8,"scrollX":1228.5,"scrollY":672},
+{"id":11,"expanded":false,"name":"House 1","order":10,"parentId":8,"scrollX":669.3333333333334,"scrollY":590.6666666666666},
+{"id":12,"expanded":false,"name":"Train Station","order":11,"parentId":8,"scrollX":1228.5,"scrollY":672},
+{"id":13,"expanded":true,"name":"Present City","order":12,"parentId":1,"scrollX":1228.5,"scrollY":672},
+{"id":14,"expanded":false,"name":"Modern Info room","order":13,"parentId":13,"scrollX":1228.5,"scrollY":672},
+{"id":15,"expanded":false,"name":"Box Puzzle","order":14,"parentId":13,"scrollX":1228.5,"scrollY":672},
+{"id":16,"expanded":false,"name":"Model Room","order":15,"parentId":13,"scrollX":1228.5,"scrollY":672},
+{"id":17,"expanded":true,"name":"Building","order":16,"parentId":13,"scrollX":638,"scrollY":590}
+]
